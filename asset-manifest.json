@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/birthday-card-dad/index.html/static/css/main.249f31fa.css",
-    "main.js": "/birthday-card-dad/index.html/static/js/main.9483fbc4.js",
-    "static/js/453.572737a6.chunk.js": "/birthday-card-dad/index.html/static/js/453.572737a6.chunk.js",
-    "index.html": "/birthday-card-dad/index.html/index.html",
-    "main.249f31fa.css.map": "/birthday-card-dad/index.html/static/css/main.249f31fa.css.map",
-    "main.9483fbc4.js.map": "/birthday-card-dad/index.html/static/js/main.9483fbc4.js.map",
-    "453.572737a6.chunk.js.map": "/birthday-card-dad/index.html/static/js/453.572737a6.chunk.js.map"
+    "main.css": "/birthday-card-dad/static/css/main.249f31fa.css",
+    "main.js": "/birthday-card-dad/static/js/main.688f2458.js",
+    "static/js/453.572737a6.chunk.js": "/birthday-card-dad/static/js/453.572737a6.chunk.js",
+    "index.html": "/birthday-card-dad/index.html",
+    "main.249f31fa.css.map": "/birthday-card-dad/static/css/main.249f31fa.css.map",
+    "main.688f2458.js.map": "/birthday-card-dad/static/js/main.688f2458.js.map",
+    "453.572737a6.chunk.js.map": "/birthday-card-dad/static/js/453.572737a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.249f31fa.css",
-    "static/js/main.9483fbc4.js"
+    "static/js/main.688f2458.js"
   ]
 }
