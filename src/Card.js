@@ -15,7 +15,7 @@ export default () => (
             id="button"
             href="https://www.canva.com/design/DAGHTtyVRO4/f4eo_XaqXhPW-c3iV0m84w/view?utm_content=DAGHTtyVRO4&utm_campaign=designshare&utm_medium=link&utm_source=editor"
           >
-            HAPPY BIRTHDAY DADDY!
+            CLICK HERE FOR A SURPRISE!
           </a>
         </h3>
         <p>Dear Daddy,</p>
